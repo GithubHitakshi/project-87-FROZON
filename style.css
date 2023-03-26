@@ -1,0 +1,20 @@
+.body_backgorund 
+{
+    background-image:url("https://img.freepik.com/free-photo/christmas-snowflakes-stars_1048-9387.jpg?w=2000");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
